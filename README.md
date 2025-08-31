@@ -1,14 +1,5 @@
 # Crisis-Command-Commerce-All3C-s --GitHub Repository Setup
 
-## Repository Description
-**Short Description (for GitHub repo description field):**
-```
-Real-time local business crisis coordination platform. Enables emergency response, resource sharing & community commerce during disruptions. Built with Firebase + Petite-vue + Bootstrap. 15% commission-based SaaS model.
-```
-
-## Complete README.md File
-
-```markdown
 # 🚨 Crisis Command Center
 ### Real-Time Local Business Emergency Coordination Platform
 
@@ -92,7 +83,6 @@ A real-time platform that connects local businesses for:
 - **Maps**: Google Maps API integration
 
 ### System Architecture
-```
 ```
 ┌─────────────┐    ┌─────────────┐    ┌─────────────┐
 │   Frontend  │────│   Firebase  │────│  External   │
