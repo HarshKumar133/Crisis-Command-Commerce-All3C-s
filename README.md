@@ -93,6 +93,7 @@ A real-time platform that connects local businesses for:
 
 ### System Architecture
 ```
+```
 ┌─────────────┐    ┌─────────────┐    ┌─────────────┐
 │   Frontend  │────│   Firebase  │────│  External   │
 │     PWA     │    │  Functions  │    │  Services   │
