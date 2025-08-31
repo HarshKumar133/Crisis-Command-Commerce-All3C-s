@@ -531,7 +531,6 @@ This project is built with ❤️ for communities worldwide who face emergencies
 ### 💪 Together, we build resilient communities
 
 </div>
-```
 
 ---
 
