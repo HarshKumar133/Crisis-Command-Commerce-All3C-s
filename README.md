@@ -580,7 +580,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/crisis-command-center&type=Date)](https://star-history.com/#yourusername/crisis-command-center&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=HarshKumar133/Crisis-Command-Commerce-All3C-s&type=Date)](https://star-history.com/#HarshKumar133/Crisis-Command-Commerce-All3C-s&Date)
 
 ---
 
@@ -604,7 +604,7 @@ This project is built with ❤️ for communities worldwide who face emergencies
 
 <div align="center">
 
-**[⭐ Star this repo](https://github.com/yourusername/crisis-command-center)** | **[🔄 Fork it](https://github.com/yourusername/crisis-command-center/fork)** | **[🐛 Report Bug](https://github.com/yourusername/crisis-command-center/issues)** | **[💡 Request Feature](https://github.com/yourusername/crisis-command-center/issues)**
+**[⭐ Star this repo](https://github.com/HarshKumar133/Crisis-Command-Commerce-All3C-s)** | **[🔄 Fork it](https://github.com/HarshKumar133/Crisis-Command-Commerce-All3C-s/fork)** | **[🐛 Report Bug](https://github.com/HarshKumar133/Crisis-Command-Commerce-All3C-s/issues)** | **[💡 Request Feature](https://github.com/HarshKumar133/Crisis-Command-Commerce-All3C-s/issues)**
 
 ### 💪 Together, we build resilient communities
 
@@ -615,7 +615,7 @@ This project is built with ❤️ for communities worldwide who face emergencies
 
 ## .gitignore File
 
-**YES, definitely add a .gitignore file!** Here's the complete .gitignore for your project:
+Here's the complete .gitignore for the project:
 
 ```gitignore
 # Firebase
@@ -692,75 +692,3 @@ api-keys.json
 # Database Exports
 firestore-export/
 ```
-
----
-
-## License Recommendation
-
-**I recommend the MIT License** for your project because:
-
-### ✅ Why MIT License is Perfect:
-1. **Commercial Friendly**: Allows commercial use while protecting your business
-2. **Developer Attraction**: Most popular license - attracts contributors
-3. **Startup Ready**: Investors and partners comfortable with MIT
-4. **Maximum Flexibility**: You can relicense later if needed
-5. **Global Recognition**: Universally understood and accepted
-
-### MIT License Text:
-```text
-MIT License
-
-Copyright (c) 2025 [Your Name]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
-### Alternative License Options:
-- **Apache 2.0**: If you want patent protection
-- **GPL v3**: If you want to keep modifications open source
-- **Commercial License**: For proprietary enterprise versions
-
----
-
-## 🎯 Repository Setup Checklist
-
-When creating your GitHub repository:
-
-### Essential Files to Include:
-- [x] **README.md** (use the comprehensive version above)
-- [x] **.gitignore** (use the Firebase-optimized version)
-- [x] **LICENSE** (MIT License recommended)
-- [x] **package.json** (with proper scripts and dependencies)
-- [x] **firebase.json** (Firebase configuration)
-- [x] **.env.example** (Template for environment variables)
-
-### Optional but Recommended:
-- [x] **CONTRIBUTING.md** (Contribution guidelines)
-- [x] **CODE_OF_CONDUCT.md** (Community standards)
-- [x] **SECURITY.md** (Security reporting procedures)
-- [x] **CHANGELOG.md** (Version history)
-- [x] **.github/workflows/** (CI/CD automation)
-- [x] **docs/** (Additional documentation)
-
-### Repository Settings:
-1. **Topics/Tags**: `firebase`, `emergency-management`, `marketplace`, `pwa`, `real-time`, `startup`
-2. **Website**: Link to your live demo
-3. **Description**: Use the short description provided above
-4. **Features**: Enable Issues, Discussions, Wiki, Projects
-5. **Branch Protection**: Protect main branch, require PR reviews
